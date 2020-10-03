@@ -1,33 +1,32 @@
 ---
 id: index
-title: Welcome
+title: Bem Vindo
 sidebar_label: Welcome
 ---
 
-Welcome to the SA-MP wiki, maintained by the open.mp team and wider SA-MP
-community!
+Bem-vindo ao wiki SA-MP, mantido pela equipe open.mp e a comunidade mais ampla do SA-MP!
 
-This site aims to provide an easily accessible, easy to contribute to
-documentation source for SA-MP and, eventually, open.mp.
+Este site tem como objetivo fornecer um acesso fácil, e fácil de contribuir para
+fonte de documentação para SA-MP e, eventualmente, open.mp.
 
-## The SA-MP Wiki is Gone
+## O Wiki do SA-MP acabou
 
-Unfortunately, the SA-MP Wiki was taken offline in late september. Luckily, most
-of the content is stored on the Internet Archive.
+Infelizmente, o SA-MP Wiki foi retirado do ar no final de setembro. Mas para a nossa sorte, a maioria
+do conteúdo é armazenado no Internet Archive.
 
-But we need the community's help to transfer the old wiki content to its new
-home, here!
+Mas precisamos da ajuda da comunidade para transferir o conteúdo do antigo Wiki para o nova
+casa, aqui!
 
-If you're interested, see this link for instructions on how to convert content:
+Se você estiver interessado, consulte este link para obter as instruções sobre como converter o conteúdo do antigo Wiki:
 https://github.com/openmultiplayer/wiki/issues/27#issuecomment-699635305
 
-If you're not experienced with using GitHub or converting HTML, don't worry! You
-can help by just letting us know about issues (via Discord, Burgershot or social
-media) and the most important thing: _spreading the word!_ So be sure to
-bookmark this site and share it with anyone you know who's wondering where the
-SA-MP Wiki went.
+Se você não tem experiência com GitHub ou conversão de HTML, não se preocupe! Vocês
+pode ajudar informando-nos sobre os problemas (via Discord, Burgershot ou nossas redes
+Socias) e o mais importante: _divulgando a palavra!_ Portanto, certifique-se de
+marque este site e compartilhe-o com qualquer pessoa que você conheça e que esteja se perguntando para onde
+SA-MP Wiki foi.
 
-We welcome contributions for improvements to documentation as well as tutorials
-and guides for common tasks such as building simple gamemodes and using common
-libraries and plugins. If you're interested in contributing then head over to
-the [GitHub page](https://github.com/openmultiplayer/wiki).
+Aceitamos contribuições para melhorias na documentação, bem como tutoriais
+e guias para tarefas comuns, como construir modos de jogo simples e usar
+bibliotecas e plug-ins. Se você estiver interessado em contribuir, vá para
+a [página GitHub] (https://github.com/openmultiplayer/wiki).
