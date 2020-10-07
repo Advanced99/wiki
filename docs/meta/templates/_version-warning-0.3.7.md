@@ -1,5 +1,5 @@
-:::warning
+:::Aviso
 
-This function was added in SA-MP 0.3.7 and will not work in earlier versions!
+Esta função foi adicionada no SA-MP 0.3.7 e não funcionará nas versões anteriores!
 
 :::
