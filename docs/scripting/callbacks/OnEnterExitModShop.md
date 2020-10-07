@@ -5,27 +5,27 @@ description: This callback is called when a player enters or exits a mod shop.
 tags: []
 ---
 
-:::warning
+:::Aviso
 
-This callback was added in SA-MP 0.3a and will not work in earlier versions!
+Este callback foi adicionado no SA-MP 0.3a e não funcionará nas versões anteriores!
 
 :::
 
-## Description
+## Descrição 
 
-This callback is called when a player enters or exits a mod shop.
+Este callback é chamado quando um jogador entra ou sai de um mod shop.
 
-| Name       | Description                                                                  |
+| Nome       | Descrição                                                                    |
 | ---------- | ---------------------------------------------------------------------------- |
-| playerid   | The ID of the player that entered or exited the modshop                      |
-| enterexit  | 1 if the player entered or 0 if they exited                                  |
-| interiorid | The interior ID of the modshop that the player is entering (or 0 if exiting) |
+| playerid   | O ID do jogador que entrou ou saiu do modshop                                |
+| enterexit  | 1 se o jogador entrou ou 0 se saiu                                           |
+| interiorid | O ID interior do modshop em que o jogador está entrando (ou 0 se se for sair)|
 
-## Returns
+## Retornos
 
-It is always called first in filterscripts.
+É sempre chamado primeiro nos filterscripts.
 
-## Examples
+## Exemplos
 
 ```c
 public OnEnterExitModShop(playerid, enterexit, interiorid)
@@ -39,14 +39,14 @@ public OnEnterExitModShop(playerid, enterexit, interiorid)
 }
 ```
 
-## Notes
+## Notas
 
-:::warning
+:::Aviso
 
-Known Bug(s): Players collide when they get into the same mod shop.
+Bug(s) conhecido(s): Os jogadores colidem quando entram na mesma loja de mods.
 
 :::
 
-## Related Functions
+## Funções Relacionadas
 
-- [AddVehicleComponent](../functions/AddVehicleComponent.md): Add a component to a vehicle.
+- [AddVehicleComponent](../functions/AddVehicleComponent.md): Adiciona um componente a um veículo.
